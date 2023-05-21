@@ -25,12 +25,18 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import go from "./company/go.png";
+import bdsi from "./company/bdsi.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import logo1 from "./logo1.png";
+import drive from "./drive.png";
 export {
+  bdsi,
+  go,
   logo,
   backend,
   creator,
@@ -59,4 +65,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  logo1,
+  drive,
 };
